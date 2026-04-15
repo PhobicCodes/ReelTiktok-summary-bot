@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+# might add:
+# openai
+# playwright
+# other packages as needed for the bot's functionality
